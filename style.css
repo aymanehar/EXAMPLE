@@ -1,0 +1,15 @@
+.khamsa {
+text-align: right;
+text-shadow: 7px 3px 6px;
+}
+
+.tata {
+    color: blue;
+}
+
+.paragraphe{
+    text-align: center;
+    text-transform: lowercase;
+    text-decoration: underline double red;
+
+}
